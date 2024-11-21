@@ -1,4 +1,4 @@
-# Machine-learning-Projects
+# Boston housing prediction
 
 This project focuses on predicting the median value of owner-occupied homes (MEDV) in the Boston area based on various features using Machine Learning. The dataset used is the popular Boston Housing Dataset, and the project demonstrates a complete pipeline from exploratory data analysis (EDA) to training and evaluating a regression model.
 
